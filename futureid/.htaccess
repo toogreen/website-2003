@@ -1,0 +1,6 @@
+# This .htaccess file was distributed with Liquid Bytes (R) Adaptive Website Framework
+# RewriteEngine On
+# RewriteRule !\.(png|jpg|gif|php|css|jar|conf)$ /usr1/public/documents/net/awf/rewrite.php
+DirectoryIndex index.html index.php index.php3
+php_value magic_quotes_gpc 0
+

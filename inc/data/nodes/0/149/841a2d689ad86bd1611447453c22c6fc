@@ -1,0 +1,7 @@
+<table cellspacing="0" border="0" cellpadding="0" width="100%">
+    <tr>
+      <td width="1%"><img src="images/img_left.jpg" width=392 height=250 border=0></td>
+      <td width="98%" background="images/img_middle.jpg"><img src="images/img_middle.jpg" width=5 height=250 border=0></td>
+      <td width="1%"><img src="images/img_right.jpg" width=117 height=250 border=0></td>
+    </tr>
+</table>
